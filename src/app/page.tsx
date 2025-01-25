@@ -1,8 +1,9 @@
-import { Button } from "@/components/ui/button";
+import Live from "@/components/live/live";
+
 const Home = () => {
   return (
-    <div>
-      <Button />
+    <div className="">
+      <Live />
     </div>
   );
 };
